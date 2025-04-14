@@ -1,0 +1,28 @@
+body, html {
+  margin:           10px 0px 0px 0px;
+  background-color: grey;
+}
+
+#myimage {
+    border: 2px solid black;
+    background: url("../images/atelmer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    width: 1100px;
+    height: 600px;
+    border-radius: 10px;
+  }
+  
+#mybutton {
+    color: white;
+    float: right;
+    margin: 10px;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: grey;
+    font: 1.5em "Indie Flower";
+    border-radius: 10px;
+}
