@@ -41,6 +41,48 @@
 
 <recipes>
 
+  <recipe category="entree">
+    <title>Baharat Whole-Roasted Chicken with Vegetables</title>
+
+    <ingredients name="">
+      <item amount="3 to 4" unit="lb.">whole chicken</item>
+      <item amount="1/2"    unit="cup">extra-virgin olive oil</item>
+      <item amount="1 1/2"  unit="tbsp.">baharat spice blend, store-brought or home made</item>
+      <item amount=""       unit="">salt and pepper to taste</item>
+      <item amount="2"      unit="medium">sweet potatoes, cut into 1/2 inch cubes</item>
+      <item amount="6"      unit="shallots">halved, lengthwise</item>
+      <item amount="1"      unit="head">garlic, separated into cloves, unpeeled</item>
+    </ingredients>
+
+    <prep>
+      <step>Preheat oven to 425F</step>
+      <step>Slide your fingers beneath the skin of the chicken to separate it from the meat. Pour 1/4 cup of
+        the olive oil over the chicken, rubbing it under the skin and all over the outside of the bird.
+        Sesaon with Baharat, salt and pepper. Cover every bit of the chicken.</step>
+      <step>In a roasting pan, toss the sweet potatoes, shallots and garlic with remaining olive oil. Season
+        with salt and pepper and toss again. Set chicken, breast side up on top of the vegetables. Roast
+        until the chicken is crips and golden. Inserted thermometer should read 165F. Remove from pan and 
+        tent it with foil. Let it rest while you finish with the vegetables</step>
+      <step>Return pan to oven with the vegatables to the oven and roast for another 5 minutes. Peel garlic
+        and discard the skins. Return to pan.</step>
+      <step>Place chicken on cutting board and cut into bite size pieces. Serve roasted vegeatables on the side.
+        The roasted garlic well add a sweetness to the dish.</step>
+    </prep>
+
+    <notes>
+      <title>Home Made Baharat Spice mixture</title>
+      <content>4 tbsp. ground black pepper</content>
+      <content>2 tbsp. ground coriander</content>
+      <content>2 tbsp. ground cinnamom</content>
+      <content>2 tbsp. ground cloves</content>
+      <content>3 tbsp. ground cumin</content>
+      <content>1 tsp. ground cardamom</content>
+      <content>4 tsp. ground nutmeg</content>
+      <content>4 tsp. paprika</content>
+      <content>Combine until well mixed. Store in an airtight jar and keep from direct sunlight.</content>
+    </notes>
+  </recipe>
+
   <recipe category="dessert">
     <title>Chocolate Hazelnut Semifreddo</title>
 
