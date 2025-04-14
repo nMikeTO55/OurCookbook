@@ -1,0 +1,32 @@
+[
+  { "title": "Meatball Dinner",
+    "catergory": "entree",
+    "ingredients": {
+      "name": "",
+      "item": [
+        {"amount": "1", "unit": "lb.", "text": "lean ground beef"},
+        {"amount": "1/2", "unit": "lb.", "text": "ground pork"},
+        {"amount": "1/2", "unit": "lb.", "text": "ground veal"},
+        {"amount": "1", "unit": "", "text": "egg"},
+        {"amount": "1", "unit": "cup", "text": "bread crumbs or panko"},
+        {"amount": "1/2", "unit": "cup", "text": "grated parmesen cheese"},
+        {"amount": "1", "unit": "tbsp.", "text": "parsley"},
+        {"amount": "1", "unit": "tsp.", "text": "salt"},
+        {"amount": "", "unit": "", "text": "pepper to taste"}
+      ]
+    },
+    "prep": [
+      "Mix add ingredients together, add a tiny bit of water, and form into 1/2 inch balls.",
+      "On a lightly oiled cooking sheet, brown meatballs in a 300F oven for 5 minutes.",
+      "Turn meatballs to ensure consistance browning, another 5 minutes.",
+      "Drain, add to Meatball sauce and simmer for 3/4 of an hour."
+    ],
+    "notes": {
+      "title": "Yield and Storing",
+      "content": [
+        "Should yield approximately 60 meatballs.",
+        "To freeze, don't add to sauce, store in a freezer bag."
+      ]
+    }
+  }
+]

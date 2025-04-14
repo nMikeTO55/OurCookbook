@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipes>
+
+  <recipe category="soup sauces">
+    <title>Spaghetti Sauce</title>
+
+    <ingredients name="">
+      <item amount=""    unit="">olive oil</item>
+      <item amount="1"   unit="medium">chopped onion</item>
+      <item amount="1"   unit="28oz">can crushed tomatoes</item>
+      <item amount="1"   unit="6oz">can tomato paste</item>
+      <item amount="1"   unit="">bay leaf</item>
+      <item amount="1"   unit="tsp.">salt to taste</item>
+    </ingredients>
+
+    <prep>
+      <step>Coat bottom of a large Dutch Oven with olive oil and brown onions.</step>
+      <step>Slowly add tomaotes, bay leaf and salt. Taste, add a pinch of sugar if necessary.</step>
+      <step>Cover and simmer for 2 1/2 hours. Add tomato paste, if sauce too thick add water. Cover and simmer for
+        another 2 hours.</step>
+      <step>Remove bay leaf.</step>
+    </prep>
+
+    <notes>
+      <title>Things to consider</title>
+      <content>Use tomato paste or water to reach the consistency of a smooth thick sauce</content>
+    </notes>
+
+  </recipe>
+
+  <recipe category="sides">
+    <title>Crispy Rice and Spicy Tuna Bites</title>
+
+    <ingredients name="Sushi Rice">
+      <item amount="2"   unit="cups">sushi rice (rinsed well)</item>
+      <item amount="3"   unit="cups">water</item>
+      <item amount="1"   unit="tsp.">salt</item>
+      <item amount="1/4"   unit="cup">rice vinegar</item>
+      <item amount="2"   unit="tbsp.">sugar</item>
+      <item amount="1"   unit="tsp.">sesame oil</item>
+    </ingredients>
+
+    <ingredients name="Spicy Tuna">
+      <item amount="1"   unit="lb.">ahi tuna (finely chopped into small pieces)</item>
+      <item amount="1/4" unit="cup">mayonnaise (Kewpie may preferred)</item>
+      <item amount="3"   unit="tbsp.">sriracha</item>
+      <item amount="1"   unit="tbsp.">soy sauce</item>
+      <item amount="2"   unit="tsp.">sesame oil</item>
+      <item amount=""    unit="">juice 1/2 lime</item>
+      <item amount="1/4" unit="cup">green onions (thinly sliced)</item>
+    </ingredients>
+
+    <ingredients name="Other">
+      <item amount=""   unit="">vegetable oil for frying</item>
+      <item amount=""   unit="">soy sauce for dipping</item>
+      <item amount=""   unit="">avocado thinly sliced or mashed</item>
+      <item amount=""   unit="">spicy mayo to drizzle on top</item>
+      <item amount=""   unit="">toasted sesame seeds to garnish on top</item>
+    </ingredients>
+
+    <prep title="Make the Sushi Rice">
+      <step>Rinse the sushi rice for a minute or two until the water runs clear. If you have time,
+        soak it in water for 15 minutes prior to rinsing.
+      </step>
+      <step>Add 3 cups of water to a pot over high heat and bring to a boil. Add the salt and
+        rice and once boiling, lower the heat and cover to simmer for 20 minutes. After,
+        turn off the heat but leave covered for 10 more minutes. Then fluff it up.</step>
+      <step>In a small bowl, add the rice vinegar, sugar and sesame oil. Microwave for 30
+        seconds or quickly warm it up in a pot just so the sugar dissolves.</step>
+      <step>Pour this over the rice and mix so that each grain of rice is coated evenly. It
+        should be very sticky.</step>
+      <step>Line an 8x8 pan or larger with Saran wrap and tightly pack the rice to desired thicknes.
+        Cover tightly and pop in the fridge to chill for 1 to 2 hours or overnight. To save time,
+         chill in the freezer for 30 minutes just until it is cold and easily can be sliced.</step>
+      <step>After the rice is chilled and set, cut into squares or rectangles.</step>
+      <step>To a large pan, add a little oil over medium high heat. Once the oil is very hot,
+        add the rice squares and shallow fry in batches to not over-crowd them. Once
+        the bottom is golden, flip over and allow the other side to become golden while
+        making sure to flip carefully to not break it.</step>
+      <step>Remove from oil and transfer to a wire rack or paper towel to drain any excess oil.</step>
+    </prep>
+
+    <prep title="Make the Spicy Tuna">
+      <step>To a bowl, add the finely diced tuna along with mayonnaise, sriracha, soy sauce, sesame oil,
+         lime juice and sliced green onions. Mix together.</step> 
+    </prep>
+
+    <prep title="How to Assemble">
+      <step>Add thinly sliced avacado on top of the fried rice. You can leave it sliced and unseasoned
+        or mashed it with a little salt and black pepper and add on top.</step>
+      <step>Add about 1 to 2 tablespoons of the spicy tuna on top. Then add a drizzle of spicy
+        mayo on top along with a sprinkle of sesame seeds.</step>
+    </prep>
+  </recipe>
+
+</recipes>

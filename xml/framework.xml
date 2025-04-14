@@ -1,0 +1,27 @@
+  <recipe category="">
+    <title></title>
+
+    <ingredients name="">
+      <item amount=""   unit=""></item>
+      <item amount=""   unit=""></item>
+      <item amount=""   unit=""></item>
+      <item amount=""   unit=""></item>
+      <item amount=""   unit=""></item>
+      <item amount=""   unit=""></item>
+      <item amount=""   unit=""></item>
+      <item amount=""   unit=""></item>
+      <item amount=""   unit=""></item>
+      <item amount=""   unit=""></item>
+      <item amount=""   unit=""></item>
+      <item amount=""   unit=""></item>
+    </ingredients>
+
+    <prep>
+      <step></step>
+    </prep>
+
+    <notes>
+      <title></title>
+      <content></content>
+    </notes>
+  </recipe>

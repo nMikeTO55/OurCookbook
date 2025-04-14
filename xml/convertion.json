@@ -1,0 +1,49 @@
+[
+  { "category": "soup sauces",
+    "title": "Meat Ball Tomato Sauce",
+    "ingredients": {
+      "name": "",
+      "item": [
+        {"amount": "", "unit": "", "text": "olive oil"},
+        {"amount": "1", "unit": "medium", "text": "chopped onion"},
+        {"amount": "1", "unit": "28oz", "text": "can tomatoes"},
+        {"amount": "1", "unit": "6oz", "text": "can tomato paste"},
+        {"amount": "1", "unit": "", "text": "bay leaf"},
+        {"amount": "1", "unit": "tsp.", "text": "salt to taste"}
+      ]
+    },
+    "prep": [
+      "Cover bottom of a large Dutch Oven with olive oil and brown onions.",
+      "Slowly add tomaotes, bay leaf and salt. Taste, add a pinch of sugar if necessary.",
+      "Simmer for 2 1/2 hours. Check, if sauce too thin add tomato paste, too thick add water. Simmer for\n        another 2 hours.",
+      "Remove bay leaf."
+    ],
+    "notes": {
+      "title": "Things to consider",
+      "content": "Use tomato paste or water to reach the consistency of a smooth thick sauce"
+    }
+  },
+  { "category": "entree",
+    "title": "Meatball Dinner",
+    "ingredients": {
+      "name": "",
+      "item": [
+        {"amount": "1", "unit": "lb.", "text": "lean ground beef"},
+        {"amount": "1/2", "unit": "lb.", "text": "ground pork"},
+        {"amount": "1/2", "unit": "lb.", "text": "ground veal"},
+        {"amount": "1", "unit": "", "text": "egg"},
+        {"amount": "1", "unit": "cup", "text": "bread crumbs or panko"},
+        {"amount": "1/2", "unit": "cup", "text": "grated parmesen cheese"},
+        {"amount": "1", "unit": "tbsp.", "text": "parsley"},
+        {"amount": "1", "unit": "tsp.", "text": "salt"},
+        {"amount": "", "unit": "", "text": "pepper to taste"}
+      ]
+    },
+    "prep": [
+      "Mix add ingredients together, add a tiny bit of water, and form into 1/2 inch balls.",
+      "On a lightly oiled cooking sheet, brown meatballs in a 300F oven for 5 minutes.",
+      "Turn meatballs to ensure consistance browning, another 5 minutes.",
+      "Drain, add to Meatball sauce and simmer for 3/4 of an hour."
+    ]
+  }
+]
